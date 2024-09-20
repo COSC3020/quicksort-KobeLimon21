@@ -13,3 +13,7 @@ recursive call considers.
 Analyse the time complexity of your implementation and give a $\Theta$ bound for
 its worst-case runtime. Add your answer, including your reasoning, to this
 markdown file.
+
+Sources
+
+https://www.youtube.com/watch?v=7h1s2SojIRw - explained QS

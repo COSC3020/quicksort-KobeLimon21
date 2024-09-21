@@ -17,3 +17,5 @@ markdown file.
 Sources
 
 https://www.youtube.com/watch?v=7h1s2SojIRw - explained QS
+
+https://github.com/COSC3020 -  viewed this repository for parition
